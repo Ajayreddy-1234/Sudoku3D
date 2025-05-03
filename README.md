@@ -7,7 +7,7 @@ A push-and-pull block–based 3D Sudoku game built in Unity, featuring third-per
 ## 📺 Gameplay Demo
 
 A gameplay video will be attached here to showcase the game’s mechanics, menus, and in-game action.
-(https://drive.google.com/file/d/1DzlMJ8XWUo4DYQCnL_rVFcui47odCCcH/view?usp=sharing)
+### [Watch the full gameplay here](https://drive.google.com/file/d/1DzlMJ8XWUo4DYQCnL_rVFcui47odCCcH/view?usp=sharing)
 ---
 
 ## 🎮 Features
